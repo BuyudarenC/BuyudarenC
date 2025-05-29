@@ -16,9 +16,9 @@ _intersection of theory and practice in blockchain technology and consensus algo
 I'm also a lover of LaTeX and Linux.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BuyudarenC/BuyudarenC/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BuyudarenC/BuyudarenC/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/BuyudarenC/BuyudarenC/raw/output/github-snake.svg">
 </picture>
 
 - :telescope: **Looking for to learn more in system.**
