@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Changhao Zhao.
+# 👋 Hi there.
 
 [Academic Home Page](https://buyudarenc.github.io/)
 
